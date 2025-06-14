@@ -1,0 +1,5 @@
+commit e73900b8df69ef742b8f38e0d9a5a74194ee8aeb (HEAD -> main, origin/main, origin/HEAD)
+Author: julidedurgutoglu <julide_yeliz@hotmail.com>
+Date:   Sat Mar 1 10:49:03 2025 +0300
+
+    ilk hafta
